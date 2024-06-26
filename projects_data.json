@@ -1,1403 +1,206 @@
 [
-    {
-        "product_name": "Сливочная Карбонара",
-        "ingredients": "Бекон, шампиньоны, пармезан, моцарелла, яйцо перепелиное с жидким желтком и грибной соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "179",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "409",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "452",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "685",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "520",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "819",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "747",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "999",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,18",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "12,38",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "22,49",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "234,10",
-                "unit": "кКал"
-            }
+    [
+        {
+            "product_name": "Сливочная Карбонара",
+            "ingredients": "Бекон, шампиньоны, пармезан, моцарелла, яйцо перепелиное с жидким желтком и грибной соус"
         },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13418_2_(1)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Классическая Пепперони",
-        "ingredients": "Непревзойденная классика! Салями Пепперони, моцарелла и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "170",
-                "unit": "гр"
+        [
+            {
+                "20": {
+                    "weight": {
+                        "value": 179,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 409,
+                        "unit": "р"
+                    }
+                }
             },
-            "price": {
-                "value": "309",
-                "unit": "р"
+            {
+                "30": {
+                    "weight": {
+                        "value": 452,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 685,
+                        "unit": "р"
+                    }
+                }
+            },
+            {
+                "30_cheese": {
+                    "weight": {
+                        "value": 520,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 819,
+                        "unit": "р"
+                    }
+                }
+            },
+            {
+                "40": {
+                    "weight": {
+                        "value": 747,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 999,
+                        "unit": "р"
+                    }
+                }
+            }
+        ],
+        {
+            "additional_info": {
+                "proteins": {
+                    "value": 8.18,
+                    "unit": "г₽"
+                },
+                "fats": {
+                    "value": 12.38,
+                    "unit": "г₽"
+                },
+                "carbo": {
+                    "value": 22.49,
+                    "unit": "г₽"
+                },
+                "calories": {
+                    "value": 234.1,
+                    "unit": "кКал"
+                }
             }
         }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "400",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "559",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "460",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "719",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "640",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "849",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,70",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "6,60",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "29,30",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "211,60",
-                "unit": "кКал"
-            }
+    ],
+    [
+        {
+            "product_name": "Классическая Пепперони",
+            "ingredients": "Непревзойденная классика! Салями Пепперони, моцарелла и томатный соус"
         },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13391_2_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Филадельфия",
-        "ingredients": "Лосось, томаты, моцарелла, красный лук, сливочный сыр, соус белый с икрой, украшена зеленью и бальзамическим соусом"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "215",
-                "unit": "гр"
+        [
+            {
+                "20": {
+                    "weight": {
+                        "value": 170,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 309,
+                        "unit": "р"
+                    }
+                }
             },
-            "price": {
-                "value": "449",
-                "unit": "р"
+            {
+                "30": {
+                    "weight": {
+                        "value": 400,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 559,
+                        "unit": "р"
+                    }
+                }
+            },
+            {
+                "30_cheese": {
+                    "weight": {
+                        "value": 460,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 719,
+                        "unit": "р"
+                    }
+                }
+            },
+            {
+                "40": {
+                    "weight": {
+                        "value": 640,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 849,
+                        "unit": "р"
+                    }
+                }
+            }
+        ],
+        {
+            "additional_info": {
+                "proteins": {
+                    "value": 8.7,
+                    "unit": "г₽"
+                },
+                "fats": {
+                    "value": 6.6,
+                    "unit": "г₽"
+                },
+                "carbo": {
+                    "value": 29.3,
+                    "unit": "г₽"
+                },
+                "calories": {
+                    "value": 211.6,
+                    "unit": "кКал"
+                }
             }
         }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "496",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "765",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "6,02",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "8,06",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "21,34",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "181,93",
-                "unit": "кКал"
-            }
+    ],
+    [
+        {
+            "product_name": "Филадельфия",
+            "ingredients": "Лосось, томаты, моцарелла, красный лук, сливочный сыр, соус белый с икрой, украшена зеленью и бальзамическим соусом"
         },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13523_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Чикен BBQ",
-        "ingredients": "Бекон, куриное филе, томаты, моцарелла, красный лук и томатный соус, украшается зеленью, смесью фрик и соусом барбекю. Содержатся орехи"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "205",
-                "unit": "гр"
+        [
+            {
+                "20": {
+                    "weight": {
+                        "value": 215,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 449,
+                        "unit": "р"
+                    }
+                }
             },
-            "price": {
-                "value": "379",
-                "unit": "р"
+            {
+                "30": {
+                    "weight": {
+                        "value": 496,
+                        "unit": "гр"
+                    },
+                    "price": {
+                        "value": 765,
+                        "unit": "р"
+                    }
+                }
+            }
+        ],
+        {
+            "additional_info": {
+                "proteins": {
+                    "value": 6.02,
+                    "unit": "г₽"
+                },
+                "fats": {
+                    "value": 8.06,
+                    "unit": "г₽"
+                },
+                "carbo": {
+                    "value": 21.34,
+                    "unit": "г₽"
+                },
+                "calories": {
+                    "value": 181.93,
+                    "unit": "кКал"
+                }
             }
         }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "456",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "510",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "725",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "754",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "999",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "6,70",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "5,40",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "26,50",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "181,30",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13406_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Курица Терияки",
-        "ingredients": "Куриное филе, шампиньоны, чеддер, красный лук и грибной соус, украшена кунжутом и соусом терияки"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "180",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "359",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "446",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "510",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "719",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "739",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "915",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,50",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "10,20",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "24,90",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "224,80",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13456_(3)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Хоум Микс",
-        "ingredients": "Моцарелла, чеддер, сыр сливочный, томатный соус, перец болгарский, оливки, пепперони, бекон, курица, томат, лук красный, соус барбекю, петрушка, смесь фрик. Содержатся орехи"
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "474",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "679",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "668",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "849",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "7,30",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "8,70",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "33,60",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "241,80",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/polyakovfoto_хоум_пицца04197_(3)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Двойная Пепперони",
-        "ingredients": "Салями Пепперони, моцарелла и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "126",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "399",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "480",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "675",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "526",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "779",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "719",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "935",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "9,05",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "16,12",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "30,83",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "304,59",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13444_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Мамма Мия",
-        "ingredients": "Ветчина, куриная грудка, шампиньоны, моцарелла, зелень и грибной соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "190",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "355",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "466",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "520",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "709",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "754",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "909",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "11,99",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "16,69",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "20,16",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "278,77",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13436_2_(1)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "4 сыра",
-        "ingredients": "Моцарелла, пармезан, чеддер, сыр с голубой плесенью и сметанный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "158",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "365",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "401",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "491",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "709",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "654",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "909",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "9,48",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "11,89",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "28,36",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "258,38",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13399_2_(1)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Деревенская с колбасками",
-        "ingredients": "Бекон, моцарелла, ветчина, охотничьи колбаски, картофельный соус, лук красный, лук зеленый, лук фри"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "199",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "375",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "450",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "675",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "515",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "789",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "11",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "14,40",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "26,70",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "279,50",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/polyakovfoto_хоум_пицца05796_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "С креветками и ореховым соусом",
-        "ingredients": "Моцарелла, соус белый с икрой, креветки, лук красный, томаты, икра тобико, руккола, соус ореховый"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "199",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "449",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "450",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "849",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "515",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "970",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "11,10",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "14,50",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "27",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "282,60",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/polyakovfoto_хоум_пицца05802_(4)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "С красной икрой",
-        "ingredients": "Красная икра, филе лосося,  сливочный сыр, томаты, соус белый с икрой, моцарелла, кунжут"
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "565",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "1299",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,50",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "11,90",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "22,60",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "231,90",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/14.12/polyakovfoto_хоум_пицца02950_(1)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Мясной двор",
-        "ingredients": "Салями Пепперони, ветчина, бекон, шампиньоны, моцарелла и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "210",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "399",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "481",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "659",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "550",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "809",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "779",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "915",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "10,37",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "9,72",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "25,67",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "231,59",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13469_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "С беконом",
-        "ingredients": "Бекон, моцарелла, томаты, красный лук, лук фри, грибной соус, украшена соусом песто"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "175",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "365",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "440",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "520",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "709",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "710",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "879",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "7,10",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "15,90",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "21,70",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "257,90",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13426_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Чизбургер",
-        "ingredients": "Мясной фарш, маринованные огурцы, томаты, чеддер, красный лук, зелень, соус красный"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "195",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "399",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "480",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "675",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "530",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "809",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,48",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "14,29",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "26,42",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "268,38",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13472_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Охотничья",
-        "ingredients": "Колбаски Пепперони, колбаски охотничьи, куриное филе, опята маринованные, моцарелла, красный лук, зелень и соус спайси"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "200",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "399",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "486",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "675",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "550",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "809",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "804",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "999",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,50",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "12,60",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "24,80",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "246,40",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13494_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Томатная 4 сыра",
-        "ingredients": "Моцарелла, пармезан, чеддер, сыр с голубой плесенью и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "158",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "379",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "401",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "599",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "491",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "729",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "654",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "915",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "3,80",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "4,60",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "9,50",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "93,30",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/polyakovfoto_хоум_пицца04188_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Мясная острая",
-        "ingredients": "Ветчина, бекон, мясной фарш, моцарелла, чеддер, маринованные огурцы, халапеньо и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "235",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "409",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "521",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "675",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "590",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "755",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "8,19",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "8,33",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "25,91",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "308",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13516_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "С ветчиной и грибами",
-        "ingredients": "Ветчина, шампиньоны, моцарелла и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "185",
-                "unit": "грр"
-            },
-            "price": {
-                "value": "355",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "436",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "589",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "500",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "709",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "699",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "849",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "9,78",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "11,66",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "29,94",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "263,77",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13478_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Маргарита",
-        "ingredients": "Томаты, моцарелла, пармезан и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "205",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "305",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "446",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "499",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "510",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "669",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "719",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "799",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "7,30",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "7,11",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "30,68",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "215,90",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13486_(2)_catalog_product_detail.jpg"
-    },
-    {
-        "product_name": "Дьябола",
-        "ingredients": "Салями Пепперони, томаты, моцарелла, халапеньо и томатный соус"
-    },
-    {
-        "20": {
-            "weight": {
-                "value": "185",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "359",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30": {
-            "weight": {
-                "value": "446",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "589",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "30_cheese": {
-            "weight": {
-                "value": "510",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "709",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "40": {
-            "weight": {
-                "value": "729",
-                "unit": "гр"
-            },
-            "price": {
-                "value": "815",
-                "unit": "р"
-            }
-        }
-    },
-    {
-        "additional_info": {
-            "proteins": {
-                "value": "6,92",
-                "unit": "г₽"
-            },
-            "fats": {
-                "value": "8,32",
-                "unit": "г₽"
-            },
-            "carbo": {
-                "value": "28,56",
-                "unit": "г₽"
-            },
-            "calories": {
-                "value": "216,80",
-                "unit": "кКал"
-            }
-        },
-        "img_souce": "https://home-pizza.com/media/_versions_/новые_увеличенные_пиццы/polyakovfoto_хоум_пицца13511_(2)_catalog_product_detail.jpg"
-    }
+    ]
 ]
