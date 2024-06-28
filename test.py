@@ -19,8 +19,8 @@ for prod in product_size_weight_price:
     product_size = product_size_wight[0].split()[0]
     if prod['data-prices-group'] == '1':
         product_size += '_cheese'
-    product_wight = product_size_wight[1]
-    product_price = prod_label['data-price'] + prod_label['data-curency']
+    product_wight = product_size_wight[1].split()[0] + 'g'
+    product_price = prod_label['data-price'] + 'r'
     total_info_prod_size_weight_price.append([product_size, product_wight, product_price])
 
 energy_value_params_bloc = soup.select_one('div.catalog-detail-info__energy').select('li.catalog-detail-info__energy-list-item')
@@ -31,12 +31,11 @@ for el in energy_value_params_bloc:
     additional_info.append(
         {el.select_one('span')['data-energy-key']: {'value': energy_info[0], 'unit': energy_info[1]}}
     )
-
-
-
-
+img_url = 'https://home-pizza.com' + soup.select_one('img.catalog-detail-image__image')['src']
 
 print(product_name)
 print(product_filling)
 print(total_info_prod_size_weight_price)
 print(additional_info)
+print(img_url)
+
